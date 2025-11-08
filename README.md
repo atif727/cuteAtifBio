@@ -51,7 +51,7 @@
 
 <div align="center">
 
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif727&layout=compact&langs_count=6&theme=catppuccin_mocha&hide_border=true&border_radius=0" />
-  <img height=250 src="https://streak-stats.demolab.com?user=atif727&theme=catppuccin_mocha&hide_border=true&border_radius=0" />
+  <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif727&layout=compact&line_height=30&langs_count=6&theme=catppuccin_mocha&hide_border=true&border_radius=0" />
+  <img src="https://streak-stats.demolab.com?user=atif727&theme=catppuccin_mocha&hide_border=true&border_radius=0" />
 
 </div>
