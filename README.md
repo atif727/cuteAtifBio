@@ -6,7 +6,7 @@
 - Fullstack Web_Dev // Specialize in building scalable applications
 - Loves to design the project first and feel amazing after everything lines up like planned <3
 - Currently Learning backend widely and ai integration on web applications
-- Huge pc builder fan // Techaholic person
+- Huge pc builder fan // Techaholic person.
 
 <details>
   <summary>My Laptop Specs</summary>
